@@ -1,0 +1,667 @@
+Added Component: Designator=C1(CAPC2013X110N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-1136-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/yageo/CC0805KRX7R9BB103/311-1136-1-ND/303046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CC0805KRX7R9BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,1 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC2013X110N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-1136-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/yageo/CC0805KRX7R9BB103/311-1136-1-ND/303046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CC0805KRX7R9BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,1 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC2013X110N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-1136-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/yageo/CC0805KRX7R9BB103/311-1136-1-ND/303046"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CC0805KRX7R9BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,1 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC2013X110N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "1276-1029-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/samsung-electro-mechanics/CL21B105KBFNNNE/1276-1029-1-ND/3889115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL21B105KBFNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,172 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC2013X110N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "1276-1029-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/samsung-electro-mechanics/CL21B105KBFNNNE/1276-1029-1-ND/3889115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL21B105KBFNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,172 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC2013X110N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "1276-1029-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/samsung-electro-mechanics/CL21B105KBFNNNE/1276-1029-1-ND/3889115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL21B105KBFNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,172 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC2013X110N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-1140-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-1140-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CC0805KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,119 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC2013X110N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "1276-1029-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/samsung-electro-mechanics/CL21B105KBFNNNE/1276-1029-1-ND/3889115"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CL21B105KBFNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,172 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPC2013X110N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-1127-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-1127-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CC0805KRX7R9BB102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0,1 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1nF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(3.2X1.6X1.1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "160-1181-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=160-1181-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C190CKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "1.8V"; VariantName = "[No Variations]"
+Added Component: Designator=D2(3.2X1.6X1.1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "160-1181-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=160-1181-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LTST-C190CKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "1.8V"; VariantName = "[No Variations]"
+Added Component: Designator=F4(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "486-1686-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=486-1686-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Schurter Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3413.0328.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "10A"; VariantName = "[No Variations]"
+Added Component: Designator=F5(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "486-1686-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=486-1686-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Schurter Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3413.0328.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "10A"; VariantName = "[No Variations]"
+Added Component: Designator=F6(PCBComponent_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "486-1686-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=486-1686-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Schurter Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "3413.0328.22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "10A"; VariantName = "[No Variations]"
+Added Component: Designator=J1(*MOLEX_0039281083)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "WM3803-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=WM3803-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0039281083"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.624 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P6(XT60Connector)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "1568-1816-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/sparkfun-electronics/PRT-10474/1568-1816-ND/8258064"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "SparkFun Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PRT-10474"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "XT60"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "2.13000 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "N/A"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOIC127P600X170-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "FDS8813NZCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/on-semiconductor/FDS8813NZ/FDS8813NZCT-ND/1626932"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FDS8813NZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.727 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOIC127P600X170-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "FDS8813NZCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/on-semiconductor/FDS8813NZ/FDS8813NZCT-ND/1626932"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FDS8813NZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.727 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOIC127P600X170-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "FDS8813NZCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/on-semiconductor/FDS8813NZ/FDS8813NZCT-ND/1626932"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FDS8813NZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.727 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOIC127P600X170-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "FDS8813NZCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/on-semiconductor/FDS8813NZ/FDS8813NZCT-ND/1626932"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FDS8813NZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.727 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(SOIC127P600X170-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "FDS8813NZCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/on-semiconductor/FDS8813NZ/FDS8813NZCT-ND/1626932"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FDS8813NZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.727 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=Q6(SOIC127P600X170-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "FDS8813NZCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/on-semiconductor/FDS8813NZ/FDS8813NZCT-ND/1626932"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FDS8813NZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "8-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "1.727 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-0.0ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-0.0ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.058 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-0.0ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-0.0ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.058 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-0.0ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-0.0ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.058 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-0.0ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-0.0ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.058 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-0.0ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-0.0ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.058 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-0.0ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-0.0ARCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.058 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "P.02AQCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=P.02AQCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ERJ-6BWFR020V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.088 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20mOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-100KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-100KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-07100KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.058 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-150KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-150KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-07150KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.061 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150k"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-10.0KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-10.0KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.061 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-5.10KCRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-5.10KCRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.061 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-47.0KCRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/yageo/RC0805FR-0747KL/311-47.0KCRCT-ND/730920"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-0747KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.061 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-5.10KCRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-5.10KCRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.061 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-5.10KCRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-5.10KCRDKR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-075K1L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.061 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5.1k"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "2019-RK73H2ATTD2371FCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=2019-RK73H2ATTD2371FCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KOA Speer Electronics, Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RK73H2ATTD2371F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.053 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.25W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.37k"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC2013X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "311-330CRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=311-330CRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC0805FR-07330RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.061 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330"; VariantName = "[No Variations]"
+Added Component: Designator=U1(CQFP50P900X900X160-48N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "620-1290-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/allegro-microsystems-llc/A3931KJPTR-T/620-1290-1-ND/2000021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "A3931KJPTR-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "8.948 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "5.5V ~ 50V"; VariantName = "[No Variations]"
+Added Component: Designator=U2(Filter)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "497-7740-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/stmicroelectronics/EMIF06-1005M12/497-7740-1-ND/1883755"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EMIF06-1005M12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.49 CAD"; VariantName = "[No Variations]"
+Added Component: Designator=U3(Filter)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "497-7740-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/product-detail/en/stmicroelectronics/EMIF06-1005M12/497-7740-1-ND/1883755"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EMIF06-1005M12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.49 CAD"; VariantName = "[No Variations]"
+Added Component: Designator=U4(Filter)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey Link"; Value = "497-7740-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EMIF06-1005M12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "12-UFDFN Exposed Pad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.49 CAD"; VariantName = "[No Variations]"
+Added Component: Designator=U?(EncoderConnector)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Digikey"; Value = "455-1671-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.ca/products/en?keywords=455-1671-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales America Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S4B-ZR(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.324 CAD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "N/A"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5VIN Pin=P5-1
+Added Pin To Net: NetName=5VIN Pin=P5-2
+Added Net: Name=5VIN
+Added Pin To Net: NetName=BRAKE Pin=U1-8
+Added Pin To Net: NetName=BRAKE Pin=U3-5
+Added Net: Name=BRAKE
+Added Pin To Net: NetName=CA Pin=C1-1
+Added Pin To Net: NetName=CA Pin=U1-33
+Added Net: Name=CA
+Added Pin To Net: NetName=CB Pin=C2-1
+Added Pin To Net: NetName=CB Pin=U1-30
+Added Net: Name=CB
+Added Pin To Net: NetName=CC Pin=C3-1
+Added Pin To Net: NetName=CC Pin=U1-27
+Added Net: Name=CC
+Added Pin To Net: NetName=COAST Pin=U1-46
+Added Pin To Net: NetName=COAST Pin=U2-1
+Added Net: Name=COAST
+Added Pin To Net: NetName=CP1 Pin=C7-2
+Added Pin To Net: NetName=CP1 Pin=U1-42
+Added Net: Name=CP1
+Added Pin To Net: NetName=CP2 Pin=C7-1
+Added Pin To Net: NetName=CP2 Pin=U1-43
+Added Net: Name=CP2
+Added Pin To Net: NetName=CSN Pin=C5-1
+Added Pin To Net: NetName=CSN Pin=C6-1
+Added Pin To Net: NetName=CSN Pin=C9-1
+Added Pin To Net: NetName=CSN Pin=D1-2
+Added Pin To Net: NetName=CSN Pin=D2-2
+Added Pin To Net: NetName=CSN Pin=J1-6
+Added Pin To Net: NetName=CSN Pin=P6-2
+Added Pin To Net: NetName=CSN Pin=R7-1
+Added Pin To Net: NetName=CSN Pin=R10-2
+Added Pin To Net: NetName=CSN Pin=R12-2
+Added Pin To Net: NetName=CSN Pin=R14-1
+Added Pin To Net: NetName=CSN Pin=U1-17
+Added Pin To Net: NetName=CSN Pin=U1-21
+Added Pin To Net: NetName=CSN Pin=U1-41
+Added Pin To Net: NetName=CSN Pin=U2-GND
+Added Pin To Net: NetName=CSN Pin=U3-GND
+Added Pin To Net: NetName=CSN Pin=U4-GND
+Added Net: Name=CSN
+Added Pin To Net: NetName=CSOUT Pin=U1-19
+Added Pin To Net: NetName=CSOUT Pin=U2-5
+Added Net: Name=CSOUT
+Added Pin To Net: NetName=CSP Pin=R7-2
+Added Pin To Net: NetName=CSP Pin=U1-22
+Added Pin To Net: NetName=CSP Pin=U1-38
+Added Net: Name=CSP
+Added Pin To Net: NetName=DIRO Pin=U1-44
+Added Pin To Net: NetName=DIRO Pin=U2-2
+Added Net: Name=DIRO
+Added Pin To Net: NetName=DIR Pin=U1-9
+Added Pin To Net: NetName=DIR Pin=U3-6
+Added Net: Name=DIR
+Added Pin To Net: NetName=ESF Pin=U1-39
+Added Pin To Net: NetName=ESF Pin=U2-3
+Added Net: Name=ESF
+Added Pin To Net: NetName=GHA Pin=R1-2
+Added Pin To Net: NetName=GHA Pin=U1-32
+Added Net: Name=GHA
+Added Pin To Net: NetName=GHB Pin=R3-2
+Added Pin To Net: NetName=GHB Pin=U1-29
+Added Net: Name=GHB
+Added Pin To Net: NetName=GHC Pin=R5-2
+Added Pin To Net: NetName=GHC Pin=U1-26
+Added Net: Name=GHC
+Added Pin To Net: NetName=GLA Pin=R2-2
+Added Pin To Net: NetName=GLA Pin=U1-36
+Added Net: Name=GLA
+Added Pin To Net: NetName=GLB Pin=R4-2
+Added Pin To Net: NetName=GLB Pin=U1-35
+Added Net: Name=GLB
+Added Pin To Net: NetName=GLC Pin=R6-2
+Added Pin To Net: NetName=GLC Pin=U1-34
+Added Net: Name=GLC
+Added Pin To Net: NetName=M1FF1 Pin=U1-6
+Added Pin To Net: NetName=M1FF1 Pin=U3-2
+Added Net: Name=M1FF1
+Added Pin To Net: NetName=M1FF2 Pin=U1-5
+Added Pin To Net: NetName=M1FF2 Pin=U3-3
+Added Net: Name=M1FF2
+Added Pin To Net: NetName=M1H1 Pin=J1-1
+Added Pin To Net: NetName=M1H1 Pin=P2-1
+Added Pin To Net: NetName=M1H1 Pin=U1-10
+Added Net: Name=M1H1
+Added Pin To Net: NetName=M1H2 Pin=J1-2
+Added Pin To Net: NetName=M1H2 Pin=P2-2
+Added Pin To Net: NetName=M1H2 Pin=U1-11
+Added Net: Name=M1H2
+Added Pin To Net: NetName=M1H3 Pin=J1-5
+Added Pin To Net: NetName=M1H3 Pin=P2-3
+Added Pin To Net: NetName=M1H3 Pin=U1-12
+Added Net: Name=M1H3
+Added Pin To Net: NetName=M1P1 Pin=C2-2
+Added Pin To Net: NetName=M1P1 Pin=F6-1
+Added Pin To Net: NetName=M1P1 Pin=U1-28
+Added Net: Name=M1P1
+Added Pin To Net: NetName=M1P2 Pin=C1-2
+Added Pin To Net: NetName=M1P2 Pin=F5-1
+Added Pin To Net: NetName=M1P2 Pin=Q1-S
+Added Pin To Net: NetName=M1P2 Pin=Q1-S
+Added Pin To Net: NetName=M1P2 Pin=Q1-S
+Added Pin To Net: NetName=M1P2 Pin=U1-31
+Added Net: Name=M1P2
+Added Pin To Net: NetName=M1P3 Pin=C3-2
+Added Pin To Net: NetName=M1P3 Pin=F4-1
+Added Pin To Net: NetName=M1P3 Pin=U1-25
+Added Net: Name=M1P3
+Added Pin To Net: NetName=MODE Pin=U1-15
+Added Pin To Net: NetName=MODE Pin=U2-6
+Added Net: Name=MODE
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=U1-40
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R15-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R16-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetF5_2 Pin=F5-2
+Added Pin To Net: NetName=NetF5_2 Pin=J1-8
+Added Pin To Net: NetName=NetF5_2 Pin=P2-5
+Added Net: Name=NetF5_2
+Added Pin To Net: NetName=NetF6_2 Pin=F6-2
+Added Pin To Net: NetName=NetF6_2 Pin=J1-7
+Added Pin To Net: NetName=NetF6_2 Pin=P2-4
+Added Net: Name=NetF6_2
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=P2-6
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=U2-7
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=U2-8
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Pin To Net: NetName=NetP3_3 Pin=U2-9
+Added Net: Name=NetP3_3
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4
+Added Pin To Net: NetName=NetP3_4 Pin=U2-10
+Added Net: Name=NetP3_4
+Added Pin To Net: NetName=NetP3_5 Pin=P3-5
+Added Pin To Net: NetName=NetP3_5 Pin=U2-11
+Added Net: Name=NetP3_5
+Added Pin To Net: NetName=NetP3_6 Pin=P3-6
+Added Pin To Net: NetName=NetP3_6 Pin=U2-12
+Added Net: Name=NetP3_6
+Added Pin To Net: NetName=NetP3_7 Pin=P3-7
+Added Pin To Net: NetName=NetP3_7 Pin=U3-7
+Added Net: Name=NetP3_7
+Added Pin To Net: NetName=NetP3_8 Pin=P3-8
+Added Pin To Net: NetName=NetP3_8 Pin=U3-8
+Added Net: Name=NetP3_8
+Added Pin To Net: NetName=NetP3_9 Pin=P3-9
+Added Pin To Net: NetName=NetP3_9 Pin=U3-9
+Added Net: Name=NetP3_9
+Added Pin To Net: NetName=NetP3_10 Pin=P3-10
+Added Pin To Net: NetName=NetP3_10 Pin=U3-10
+Added Net: Name=NetP3_10
+Added Pin To Net: NetName=NetP3_11 Pin=P3-11
+Added Pin To Net: NetName=NetP3_11 Pin=U3-11
+Added Net: Name=NetP3_11
+Added Pin To Net: NetName=NetP3_12 Pin=P3-12
+Added Pin To Net: NetName=NetP3_12 Pin=U3-12
+Added Net: Name=NetP3_12
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=P4-2
+Added Pin To Net: NetName=NetP4_1 Pin=U4-7
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP4_3 Pin=P4-3
+Added Pin To Net: NetName=NetP4_3 Pin=P4-4
+Added Pin To Net: NetName=NetP4_3 Pin=U4-8
+Added Net: Name=NetP4_3
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-G
+Added Pin To Net: NetName=NetQ1_G Pin=R1-1
+Added Net: Name=NetQ1_G
+Added Pin To Net: NetName=NetQ2_G Pin=Q2-G
+Added Pin To Net: NetName=NetQ2_G Pin=R2-1
+Added Net: Name=NetQ2_G
+Added Pin To Net: NetName=NetQ4_G Pin=Q4-G
+Added Pin To Net: NetName=NetQ4_G Pin=R4-1
+Added Net: Name=NetQ4_G
+Added Pin To Net: NetName=NetQ5_G Pin=Q5-G
+Added Pin To Net: NetName=NetQ5_G Pin=R5-1
+Added Net: Name=NetQ5_G
+Added Pin To Net: NetName=NetQ6_G Pin=Q6-G
+Added Pin To Net: NetName=NetQ6_G Pin=R6-1
+Added Net: Name=NetQ6_G
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=U4-1
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR14_2 Pin=U4-2
+Added Net: Name=NetR14_2
+Added Pin To Net: NetName=PWM Pin=U1-14
+Added Pin To Net: NetName=PWM Pin=U3-1
+Added Net: Name=PWM
+Added Pin To Net: NetName=RC Pin=R12-1
+Added Pin To Net: NetName=RC Pin=U1-16
+Added Net: Name=RC
+Added Pin To Net: NetName=RDEAD Pin=R11-1
+Added Pin To Net: NetName=RDEAD Pin=U1-18
+Added Net: Name=RDEAD
+Added Pin To Net: NetName=REF Pin=R8-2
+Added Pin To Net: NetName=REF Pin=U1-20
+Added Net: Name=REF
+Added Pin To Net: NetName=RESET Pin=U1-2
+Added Pin To Net: NetName=RESET Pin=U2-4
+Added Net: Name=RESET
+Added Pin To Net: NetName=TACHO Pin=U1-7
+Added Pin To Net: NetName=TACHO Pin=U3-4
+Added Net: Name=TACHO
+Added Pin To Net: NetName=V5 Pin=C8-2
+Added Pin To Net: NetName=V5 Pin=R9-1
+Added Pin To Net: NetName=V5 Pin=U1-3
+Added Pin To Net: NetName=V5 Pin=U1-4
+Added Net: Name=V5
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=J1-3
+Added Pin To Net: NetName=VCC Pin=P6-1
+Added Pin To Net: NetName=VCC Pin=Q1-D
+Added Pin To Net: NetName=VCC Pin=Q1-D
+Added Pin To Net: NetName=VCC Pin=Q1-D
+Added Pin To Net: NetName=VCC Pin=Q1-D
+Added Pin To Net: NetName=VCC Pin=U1-24
+Added Pin To Net: NetName=VCC Pin=U1-45
+Added Net: Name=VCC
+Added Pin To Net: NetName=VDSTH Pin=R9-2
+Added Pin To Net: NetName=VDSTH Pin=U1-23
+Added Net: Name=VDSTH
+Added Class: Name=3phasedriver
+Added Room: Name=3phasedriver

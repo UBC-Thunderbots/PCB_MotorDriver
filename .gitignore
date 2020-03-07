@@ -1,4 +1,3 @@
-
 # Created by https://www.gitignore.io/api/altium,ltspice
 # Edit at https://www.gitignore.io/?templates=altium,ltspice
 
@@ -12,7 +11,9 @@
 # Project Logs
 Project\ Logs*/*
 !Project\ Logs*/*.csv
+!Project\ Logs*/*.xlsx
 !Project\ Logs*/*.pdf
+
 
 # Project Outputs
 Project\ Outputs*/

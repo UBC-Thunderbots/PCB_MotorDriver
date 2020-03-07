@@ -10,7 +10,9 @@
 **/History/*
 
 # Project Logs
-Project\ Logs*/
+Project\ Logs*/*
+!Project\ Logs*/*.csv
+!Project\ Logs*/*.pdf
 
 # Project Outputs
 Project\ Outputs*/

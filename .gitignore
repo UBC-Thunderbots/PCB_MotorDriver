@@ -9,11 +9,7 @@
 **/History/*
 
 # Project Logs
-Project\ Logs*/*
-!Project\ Logs*/*.csv
-!Project\ Logs*/*.xlsx
-!Project\ Logs*/*.pdf
-
+Project\ Logs*/
 
 # Project Outputs
 Project\ Outputs*/
@@ -21,9 +17,22 @@ Project\ Outputs*/
 # Auto-conversion notices
 *.PcbDoc.htm
 
+# Gerbers
+*.ger
+*.nc
+*.do
+*.GBL
+*.GBO
+*.GBP
+*.GBS
+*.GML
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+
 # Access lock file for dbLib sources
 **/*.ldb
-
 
 ### LTspice ###
 # gitignore template for LTspice

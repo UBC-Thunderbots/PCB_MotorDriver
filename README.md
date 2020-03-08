@@ -32,3 +32,30 @@ Password | *your github login password*
 After your repository is connected, you can add or remove files like a regular Altium Project folder and then commit them from within Altium Designer by right-clicking on any project files in the **Projects** and hovering the mouse cursor over **Version Control**.
 
 Reference page: https://forum.live.altium.com/#posts/235981/718003
+
+# Repository Structure
+
+At the highest level, there should be the most up to date board revisions, e.g.
+`motordriver-v1.0/`. Any previous versions should be placed in `previous_revisions/`. Every board revision directory should abide by the following structure:
+
+```
+<name-v#>/
+├── doc/
+│   ├── guidelines/
+│   ├── <name>.pdf
+│   └── <name>.xslx
+├── pcb/
+│   ├── <name>.PrjPCB
+│   ├── <name>.SchDoc
+│   └── <name>.PcbDoc
+├── sim/
+```
+
+## doc/
+For documentation and relevant non-simulation and layout files. This includes PDFs of the design, bills of materials (`*.xlsx` or `.csv` format), and schematic and PCB layout guidelines (`guidelines/`).
+
+## pcb/
+For any PCB design software files related to the schematic capture and PCB layout of board.
+
+## sim/
+For any simulation files related to the PCB design here. 

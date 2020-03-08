@@ -36,7 +36,7 @@ Reference page: https://forum.live.altium.com/#posts/235981/718003
 # Repository Structure
 
 At the highest level, there should be the most up to date board revisions, e.g.
-`motordriver-v1.0/`. Any previous versions should be placed in `previous_revisions/`. Every board revision directory should abide by the following structure:
+`motordriver-v1.0/`. Any previous versions should be placed in `archive/`. Every board revision directory should abide by the following structure:
 
 ```
 <name-v#>/
@@ -52,7 +52,7 @@ At the highest level, there should be the most up to date board revisions, e.g.
 ```
 
 ## doc/
-For documentation and relevant non-simulation and layout files. This includes PDFs of the design, bills of materials (`*.xlsx` or `.csv` format). 
+For documentation and relevant non-simulation and layout files. This includes PDFs of the design and bills of materials (`*.xlsx` or `.csv` format). 
 
 ## pcb/
 For any PCB design software files related to the schematic capture and PCB layout of board. This includes schematic and PCB layout guidelines (`guidelines/`).

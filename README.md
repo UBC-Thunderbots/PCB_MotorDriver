@@ -1,4 +1,4 @@
-## PCB_MotorDriver Description
+﻿## PCB_MotorDriver Description
 Github SVN repository for UBC Thunderbots PCB_MotorDriver Altium project files. 
 
 # How to link repository with Altium Designer
@@ -41,10 +41,10 @@ At the highest level, there should be the most up to date board revisions, e.g.
 ```
 <name-v#>/
 ├── doc/
-│   ├── guidelines/
 │   ├── <name>.pdf
-│   └── <name>.xslx
+│   └── <name>.xslx or <name>.csv
 ├── pcb/
+│   ├── guidelines/
 │   ├── <name>.PrjPCB
 │   ├── <name>.SchDoc
 │   └── <name>.PcbDoc
@@ -52,10 +52,10 @@ At the highest level, there should be the most up to date board revisions, e.g.
 ```
 
 ## doc/
-For documentation and relevant non-simulation and layout files. This includes PDFs of the design, bills of materials (`*.xlsx` or `.csv` format), and schematic and PCB layout guidelines (`guidelines/`).
+For documentation and relevant non-simulation and layout files. This includes PDFs of the design, bills of materials (`*.xlsx` or `.csv` format). 
 
 ## pcb/
-For any PCB design software files related to the schematic capture and PCB layout of board.
+For any PCB design software files related to the schematic capture and PCB layout of board. This includes schematic and PCB layout guidelines (`guidelines/`).
 
 ## sim/
 For any simulation files related to the PCB design here. 

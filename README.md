@@ -48,7 +48,7 @@ At the highest level, there should be the most up to date board revisions, e.g.
 │   ├── <name>.PrjPCB
 │   ├── <name>.SchDoc
 │   └── <name>.PcbDoc
-├── sim/
+└── sim/
 ```
 
 ## doc/

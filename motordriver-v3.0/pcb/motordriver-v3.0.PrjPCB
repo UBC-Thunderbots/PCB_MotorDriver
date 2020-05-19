@@ -89,23 +89,46 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QWSVOVEA
 
+[Document4]
+DocumentPath=Top_Bot_LayerPDFPrint.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueID=97653544-1492-470A-ABFD-DF4BA78F2DD2
 Description=Default motordriver-v3.0
 AllowFabrication=0
 ParameterCount=1
-VariationCount=6
+VariationCount=8
 Variation1=Designator=Q1|UniqueId=\ETINIPOP|Kind=1|AlternatePart= 
 Variation2=Designator=C4|UniqueId=\ITOQQEWX|Kind=1|AlternatePart= 
 Variation3=Designator=P1|UniqueId=\QMFJFBQN|Kind=1|AlternatePart= 
 Variation4=Designator=R18|UniqueId=\RLDRKYSN|Kind=1|AlternatePart= 
 Variation5=Designator=C12|UniqueId=\DYRNKHMT|Kind=1|AlternatePart= 
 Variation6=Designator=C15|UniqueId=\YKRIVHDL|Kind=1|AlternatePart= 
+Variation7=Designator=R?|UniqueId=\HNUDCCLD|Kind=1|AlternatePart= 
+Variation8=Designator=Q1|UniqueId=\LPTWOOJH|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter2_1]
 Name=Default MDv3
 Value=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 3phasedriver\Design Rule Check - motordriver-v3.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources

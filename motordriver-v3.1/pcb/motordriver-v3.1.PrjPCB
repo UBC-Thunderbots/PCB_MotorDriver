@@ -23,11 +23,13 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
+AutoSheetNumbering=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
+IsProjectConflictPreventionWarningsEnabled=1
 OutputPath=Project Outputs for 3phasedriver
 LogFolderPath=
 ManagedProjectGUID=
@@ -139,25 +141,133 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XAASIYDY
 
+[Document7]
+DocumentPath=motordriver-v3.1_PCIE_Panel4x2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KGRVPRLO
+
 [ProjectVariant1]
 UniqueID=97653544-1492-470A-ABFD-DF4BA78F2DD2
 Description=Default motordriver-v3.0
 AllowFabrication=0
 ParameterCount=1
-VariationCount=8
-Variation1=Designator=Q1|UniqueId=\ETINIPOP|Kind=1|AlternatePart= 
-Variation2=Designator=C4|UniqueId=\ITOQQEWX|Kind=1|AlternatePart= 
-Variation3=Designator=P1|UniqueId=\QMFJFBQN|Kind=1|AlternatePart= 
-Variation4=Designator=R18|UniqueId=\RLDRKYSN|Kind=1|AlternatePart= 
-Variation5=Designator=C12|UniqueId=\DYRNKHMT|Kind=1|AlternatePart= 
-Variation6=Designator=C15|UniqueId=\YKRIVHDL|Kind=1|AlternatePart= 
-Variation7=Designator=R?|UniqueId=\HNUDCCLD|Kind=1|AlternatePart= 
-Variation8=Designator=Q1|UniqueId=\LPTWOOJH|Kind=1|AlternatePart= 
+VariationCount=4
+Variation1=Designator=C4|UniqueId=\PNOJURVZ|Kind=1|AlternatePart= 
+Variation2=Designator=R18|UniqueId=\NGJTBIII|Kind=1|AlternatePart= 
+Variation3=Designator=C12|UniqueId=\YWMKSYEB|Kind=1|AlternatePart= 
+Variation4=Designator=C15|UniqueId=\TAWUSDLS|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter2_1]
 Name=Default MDv3
 Value=
+
+[ProjectVariant2]
+UniqueID=A9C76ACB-B615-40EA-AE7B-DF5D110656BF
+Description=SFF Mosfet motordriver-v3.1
+AllowFabrication=0
+ParameterCount=0
+VariationCount=3
+Variation1=Designator=U2|UniqueId=\SYDRVDXG|Kind=2|AlternatePart=MOSFET BSC0921NDI|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Users\Simon\Documents\UBC\Thunderbots\Electrical\Altium_Libraries\Project Outputs for AltiumLibraries\AltiumLibraries.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=MOSFET BSC0921NDI|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLibraries.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=PG-TISON-8-2|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Comment|VariantValue=MOSFET BSC0921NDI
+ParamDesignator1=U2
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=U2
+ParamVariation3=ParameterName=Description|VariantValue=MOSFET N+N 30V 17A
+ParamDesignator3=U2
+ParamVariation4=ParameterName=Footprint|VariantValue=PG-TISON-8-2
+ParamDesignator4=U2
+ParamVariation5=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator5=U2
+ParamVariation6=ParameterName=Library Reference|VariantValue=MOSFET BSC0921NDI
+ParamDesignator6=U2
+ParamVariation7=ParameterName=MF|VariantValue=Infineon Technologies
+ParamDesignator7=U2
+ParamVariation8=ParameterName=MF P/N|VariantValue=BSC0921NDI
+ParamDesignator8=U2
+ParamVariation9=ParameterName=PCB3D|VariantValue= 
+ParamDesignator9=U2
+ParamVariation10=ParameterName=Pin Info|VariantValue= 
+ParamDesignator10=U2
+ParamVariation11=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator11=U2
+ParamVariation12=ParameterName=Simulation|VariantValue= 
+ParamDesignator12=U2
+ParamVariation13=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator13=U2
+ParamVariation14=ParameterName=Supplier Part Number 1|VariantValue=BSC0921NDIATMA1CT-ND
+ParamDesignator14=U2
+Variation2=Designator=U3|UniqueId=\HSEMTDTD|Kind=2|AlternatePart=MOSFET BSC0921NDI|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Users\Simon\Documents\UBC\Thunderbots\Electrical\Altium_Libraries\Project Outputs for AltiumLibraries\AltiumLibraries.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=MOSFET BSC0921NDI|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLibraries.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=PG-TISON-8-2|AltLibLink_IsSameFootprint=False
+ParamVariation15=ParameterName=Comment|VariantValue=MOSFET BSC0921NDI
+ParamDesignator15=U3
+ParamVariation16=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator16=U3
+ParamVariation17=ParameterName=Description|VariantValue=MOSFET N+N 30V 17A
+ParamDesignator17=U3
+ParamVariation18=ParameterName=Footprint|VariantValue=PG-TISON-8-2
+ParamDesignator18=U3
+ParamVariation19=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator19=U3
+ParamVariation20=ParameterName=Library Reference|VariantValue=MOSFET BSC0921NDI
+ParamDesignator20=U3
+ParamVariation21=ParameterName=MF|VariantValue=Infineon Technologies
+ParamDesignator21=U3
+ParamVariation22=ParameterName=MF P/N|VariantValue=BSC0921NDI
+ParamDesignator22=U3
+ParamVariation23=ParameterName=PCB3D|VariantValue= 
+ParamDesignator23=U3
+ParamVariation24=ParameterName=Pin Info|VariantValue= 
+ParamDesignator24=U3
+ParamVariation25=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator25=U3
+ParamVariation26=ParameterName=Simulation|VariantValue= 
+ParamDesignator26=U3
+ParamVariation27=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator27=U3
+ParamVariation28=ParameterName=Supplier Part Number 1|VariantValue=BSC0921NDIATMA1CT-ND
+ParamDesignator28=U3
+Variation3=Designator=U4|UniqueId=\ATONQXMK|Kind=2|AlternatePart=MOSFET BSC0921NDI|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=D:\Users\Simon\Documents\UBC\Thunderbots\Electrical\Altium_Libraries\Project Outputs for AltiumLibraries\AltiumLibraries.IntLib|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=MOSFET BSC0921NDI|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=AltiumLibraries.IntLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName= |AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=PG-TISON-8-2|AltLibLink_IsSameFootprint=False
+ParamVariation29=ParameterName=Comment|VariantValue=MOSFET BSC0921NDI
+ParamDesignator29=U4
+ParamVariation30=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator30=U4
+ParamVariation31=ParameterName=Description|VariantValue=MOSFET N+N 30V 17A
+ParamDesignator31=U4
+ParamVariation32=ParameterName=Footprint|VariantValue=PG-TISON-8-2
+ParamDesignator32=U4
+ParamVariation33=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator33=U4
+ParamVariation34=ParameterName=Library Reference|VariantValue=MOSFET BSC0921NDI
+ParamDesignator34=U4
+ParamVariation35=ParameterName=MF|VariantValue=Infineon Technologies
+ParamDesignator35=U4
+ParamVariation36=ParameterName=MF P/N|VariantValue=BSC0921NDI
+ParamDesignator36=U4
+ParamVariation37=ParameterName=PCB3D|VariantValue= 
+ParamDesignator37=U4
+ParamVariation38=ParameterName=Pin Info|VariantValue= 
+ParamDesignator38=U4
+ParamVariation39=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator39=U4
+ParamVariation40=ParameterName=Simulation|VariantValue= 
+ParamDesignator40=U4
+ParamVariation41=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator41=U4
+ParamVariation42=ParameterName=Supplier Part Number 1|VariantValue=BSC0921NDIATMA1CT-ND
+ParamDesignator42=U4
+ParamVariationCount=42
 
 [Configuration1]
 Name=Sources
@@ -1084,6 +1194,8 @@ MultiChannelAlternate=2
 AlternateItemFail=3
 Type122=2
 Type123=1
+Type124=1
+Type125=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
@@ -1628,12 +1740,12 @@ ComponentUpdate28=1
 ComponentIsDeviceSheet28=0
 
 [Comparison Options]
-ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
-ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
 
 [SmartPDF]
 PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9

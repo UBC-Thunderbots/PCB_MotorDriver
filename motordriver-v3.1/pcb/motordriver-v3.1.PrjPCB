@@ -124,13 +124,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSLQQGYB
 
-<<<<<<< HEAD
-[Document5]
-DocumentPath=motordriver-v3.1_IO.SchDoc
-=======
 [Document6]
-DocumentPath=motordriver-v3.1_PCIE.PcbDoc
->>>>>>> 83e41f59bf2c68315c7eb2810c14ec90f46e4072
+DocumentPath=motordriver-v3.1_power-stage.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -144,7 +139,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XAASIYDY
+DocumentUniqueId=MGUPTPWC
 
 [Document7]
 DocumentPath=..\..\..\Altium_Libraries\AltiumLibraries.LibPkg

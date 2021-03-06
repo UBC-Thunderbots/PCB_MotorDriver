@@ -161,6 +161,10 @@ ParamVariationCount=0
 Name=Default MDv3
 Value=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 3phasedriver\Design Rule Check - motordriver-v3.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0

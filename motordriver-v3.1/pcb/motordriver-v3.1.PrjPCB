@@ -40,6 +40,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=motordriver-v3.1-panelization.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NILCFKSM
+
+[Document2]
 DocumentPath=motordriver-v3.1_PCIE.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -56,7 +73,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XAASIYDY
 
-[Document2]
+[Document3]
 DocumentPath=motordriver-v3.1_A3931.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -73,7 +90,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNPBFVSC
 
-[Document3]
+[Document4]
 DocumentPath=..\..\..\Altium_Libraries\AltiumLibraries.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -90,7 +107,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJDQYTTM
 
-[Document4]
+[Document5]
 DocumentPath=..\..\..\Altium_Libraries\AltiumLibraries.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +124,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLPJFXRK
 
-[Document5]
+[Document6]
 DocumentPath=motordriver-v3.1_power-stage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSLQQGYB
 
-[Document6]
+[Document7]
 DocumentPath=motordriver-v3.1_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

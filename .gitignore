@@ -49,3 +49,4 @@ Project\ Outputs*/
 *.net
 
 # End of https://www.gitignore.io/api/altium,ltspice
+PCB_Inductor_board/PCB_Inductor_board.PrjPcbStructure

@@ -228,6 +228,23 @@ GenerateClassCluster=0
 DocumentUniqueId=GESUNMDM
 
 [Document12]
+DocumentPath=motordriver-v5.0_driver-power-stage.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
 DocumentPath=motordriver-v5.0_opto-isolation-general.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

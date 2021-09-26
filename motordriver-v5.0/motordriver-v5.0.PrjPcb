@@ -109,24 +109,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=motordriver-v5.0_opto-isolation-ctrl.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LGCFAYVR
-
-[Document6]
-DocumentPath=motordriver-v5.0_opto-isolation-general.SchDoc
+DocumentPath=motordriver-v5.0_isolation-general.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -142,7 +125,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INPEADID
 
-[Document7]
+[Document6]
 DocumentPath=motordriver-v5.0_trinamic-controller.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +142,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KFYBNJAC
 
-[Document8]
+[Document7]
 DocumentPath=motordriver-v5.0_driver-power-stage.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LCOKRXQL
 
-[Document9]
+[Document8]
 DocumentPath=motordriver-v5.0_inductors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YQJQRRIP
 
-[Document10]
+[Document9]
 DocumentPath=motordriver-v5.0_connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +193,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SKMQCVSV
 
-[Document11]
+[Document10]
 DocumentPath=motordriver-v5.0_RC-filter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1

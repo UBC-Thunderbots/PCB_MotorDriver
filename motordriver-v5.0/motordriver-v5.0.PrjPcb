@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for motordriver-v5.0
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -284,6 +284,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FYAJOQQB
 
+[Document15]
+DocumentPath=motordriver-v5.0-toplevel_simplified.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for motordriver-v5.0\Design Rule Check - motordriver-v5.html
 DItemRevisionGUID=
@@ -325,17 +342,17 @@ SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangl
 SCH_ShowNote=-1
 SCH_ShowNoteCollapsed=-1
 SCH_ExpandLogicalToPhysical=-1
-SCH_VariantName=
+SCH_VariantName=[No Variations]
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=0
 SCH_ExpandPorts=0
 SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
-SCH_HasExpandLogicalToPhysicalSheets=0
-SaveSettingsToOutJob=-1
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for motordriver-v5.0
 
 [OutputGroup1]
 Name=Netlist Outputs

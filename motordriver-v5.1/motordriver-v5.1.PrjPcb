@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for motordriver-v5.1
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -577,10 +577,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for motordriver-v5.1\Pick Place\Pick Place for motordriver-v5.1.csv
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Project Outputs for motordriver-v5.1\Pick Place\Pick Place for motordriver-v5.1.txt
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -627,9 +623,6 @@ SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
-[Generic_EDE]
-OutputDir=
-
 [Generic_SignalIntegritySimulation]
 SignalIntegrityInitialised=-1
 TrackImpedance=100
@@ -653,6 +646,9 @@ Rising Edge OvershootDefaultEnabled=-1
 Rising Edge OvershootDefaultValue=20
 Rising Edge UndershootDefaultEnabled=-1
 Rising Edge UndershootDefaultValue=20
+
+[Generic_EDE]
+OutputDir=Project Outputs for motordriver-v5.1
 
 [Generic_SignalIntegrityPanelSetup]
 TerminationName0=No Termination
@@ -689,8 +685,8 @@ TerminationMinC0=0
 TerminationMaxC0=0
 TerminationPrefC0=0
 TerminationVCC0=0
-TerminationMinR11=25
-TerminationMaxR11=150
+TerminationMinR11=10
+TerminationMaxR11=70
 TerminationPrefR11=47
 TerminationMinR21=0
 TerminationMaxR21=0

@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for motordriver-v5.1
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -423,23 +423,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document23]
-DocumentPath=motordriver-v5.1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WMYHDMEN
-
-[Document24]
 DocumentPath=JLC_Fabrication.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -456,8 +439,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
-DocumentPath=motordriver-v5.1_encoderspi.PcbDoc
+[Document24]
+DocumentPath=motordriver-v5.1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -538,42 +521,50 @@ DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTL
+DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTO
+DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTP
+DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTS
+DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for motordriver-v5.1\NC Drill\motordriver-v5.1.LDP
+DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.REP
+DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.RUL
+DocumentPath=Project Outputs for motordriver-v5.1\NC Drill\motordriver-v5.1.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=motordriver-v5.1.sdf
+DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.REP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for motordriver-v5.1\NC Drill\motordriver-v5.1.TXT
+DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument26]
+DocumentPath=motordriver-v5.1.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for motordriver-v5.1\NC Drill\motordriver-v5.1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument28]
 DocumentPath=Project Outputs for motordriver-v5.1\Pick Place\Pick Place for motordriver-v5.1.csv
 DItemRevisionGUID=
 
@@ -646,9 +637,6 @@ Rising Edge OvershootDefaultEnabled=-1
 Rising Edge OvershootDefaultValue=20
 Rising Edge UndershootDefaultEnabled=-1
 Rising Edge UndershootDefaultValue=20
-
-[Generic_EDE]
-OutputDir=Project Outputs for motordriver-v5.1
 
 [Generic_SignalIntegrityPanelSetup]
 TerminationName0=No Termination
@@ -755,6 +743,9 @@ TerminationMinC7=0
 TerminationMaxC7=0
 TerminationPrefC7=0
 TerminationVCC7=5
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

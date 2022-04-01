@@ -461,110 +461,98 @@ DocumentPath=Project Outputs for motordriver-v5.1\BOM\Bill of Materials-motordri
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for motordriver-v5.1\Design Rule Check - motordriver-v5.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for motordriver-v5.1\NC Drill\motordriver-v5.1.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.G1
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.G2
 DItemRevisionGUID=
 
-[GeneratedDocument7]
-DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.G3
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.G4
-DItemRevisionGUID=
-
-[GeneratedDocument9]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for motordriver-v5.1\NC Drill\motordriver-v5.1.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument23]
 DocumentPath=motordriver-v5.1.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for motordriver-v5.1\NC Drill\motordriver-v5.1.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for motordriver-v5.1\Pick Place\Pick Place for motordriver-v5.1.csv
 DItemRevisionGUID=
 

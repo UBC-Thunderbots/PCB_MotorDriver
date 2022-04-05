@@ -509,50 +509,42 @@ DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument16]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for motordriver-v5.1\NC Drill\motordriver-v5.1.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for motordriver-v5.1\Gerber\motordriver-v5.1.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument21]
 DocumentPath=motordriver-v5.1.sdf
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for motordriver-v5.1\NC Drill\motordriver-v5.1.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for motordriver-v5.1\Pick Place\Pick Place for motordriver-v5.1.csv
 DItemRevisionGUID=
 
@@ -738,7 +730,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -844,7 +836,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -924,7 +916,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -946,7 +938,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -1018,7 +1010,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1081,7 +1073,7 @@ PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1189,7 +1181,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1233,7 +1225,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1294,7 +1286,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Virtual Printer
+TargetPrinter=HP LaserJet 1200 Series PCL 5
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -2009,17 +2001,11 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=IC_Library.DbLib/ICs
-ComponentDesignItemID0=OP AMP CURR SENSE BI TSC
-ComponentSymbolReference0=OP AMP CURR SENSE BI TSC
-ComponentUpdate0=0
+ComponentLibraryIdentifier0=Connector_Library.DbLib/Connectors
+ComponentDesignItemID0=CN HDR 10POS MOLEX 0430451012
+ComponentSymbolReference0=CN HDR 10POS MOLEX 0430451012
+ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=Inductor_Library.DbLib/Inductors
-ComponentDesignItemID1=FERRITE BEAD 200 MOHM 0603 1LN
-ComponentSymbolReference1=FERRITE BEAD 200 MOHM 0603 1LN
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
 FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -2045,22 +2031,19 @@ ParameterName4=Manufacturer Part Number 1
 ParameterUpdate4=1
 ParameterName5=Part Number
 ParameterUpdate5=1
-ParameterName6=Supplier 1
+ParameterName6=Pin Count
 ParameterUpdate6=1
-ParameterName7=Supplier Part Number 1
+ParameterName7=Supplier 1
 ParameterUpdate7=1
-ParameterName8=Supplier URL 1
+ParameterName8=Supplier Part Number 1
 ParameterUpdate8=1
-ParameterName9=Value
+ParameterName9=Supplier URL 1
 ParameterUpdate9=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=0603
+ModelName0=MOLEX_0430451012
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=SC70-6
-ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

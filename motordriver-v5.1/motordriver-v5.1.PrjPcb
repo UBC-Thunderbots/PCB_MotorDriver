@@ -49,25 +49,8 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=motordriver-v5.1_willem.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UUIKETLQ
-
-[Document2]
 DocumentPath=power.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -82,9 +65,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUDZUGTJ
 
-[Document3]
+[Document2]
 DocumentPath=ui-jetson-nano.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -99,9 +82,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KKGFDAHM
 
-[Document4]
+[Document3]
 DocumentPath=isolation.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -116,9 +99,26 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=INPEADID
 
+[Document4]
+DocumentPath=isolation-alt.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=12
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ELSIBWMB
+
 [Document5]
 DocumentPath=motordriver-v5.1_top-level.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -135,7 +135,7 @@ DocumentUniqueId=HNMKICJY
 
 [Document6]
 DocumentPath=trinamic-controller.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -152,7 +152,7 @@ DocumentUniqueId=KFYBNJAC
 
 [Document7]
 DocumentPath=trinamic-controller-dribbler.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -169,7 +169,7 @@ DocumentUniqueId=QMMWWKUV
 
 [Document8]
 DocumentPath=current_amplification.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -186,7 +186,7 @@ DocumentUniqueId=OHUQJVXO
 
 [Document9]
 DocumentPath=driver-power-stage.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -203,7 +203,7 @@ DocumentUniqueId=LCOKRXQL
 
 [Document10]
 DocumentPath=connectors-dribbler.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -220,7 +220,7 @@ DocumentUniqueId=SKMQCVSV
 
 [Document11]
 DocumentPath=connectors.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -254,7 +254,7 @@ DocumentUniqueId=
 
 [Document13]
 DocumentPath=demux.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -339,7 +339,7 @@ DocumentUniqueId=
 
 [Document18]
 DocumentPath=low-pass-filter.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -457,6 +457,10 @@ GenerateClassCluster=0
 DocumentUniqueId=WVNHRPMY
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for motordriver-v5.1\Design Rule Check - motordriver-v5.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=motordriver-v5.1.sdf
 DItemRevisionGUID=
 

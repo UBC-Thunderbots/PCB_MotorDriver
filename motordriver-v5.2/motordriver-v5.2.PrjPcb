@@ -650,6 +650,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -755,6 +756,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -834,6 +836,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -855,6 +858,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -926,6 +930,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -988,6 +993,7 @@ PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup7]
 Name=Other Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1095,6 +1101,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1138,6 +1145,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1198,6 +1206,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
@@ -1912,17 +1921,11 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=IC_Library.DbLib/ICs
-ComponentDesignItemID0=Test Point (Via)
-ComponentSymbolReference0=Test Point (Via)
-ComponentUpdate0=0
+ComponentLibraryIdentifier0=Connector_Library.DbLib/Connectors
+ComponentDesignItemID0=CN HDR 4POS SMD JST ZR
+ComponentSymbolReference0=CN HDR 4POS SMD JST ZR
+ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=IC_Library.DbLib/ICs
-ComponentDesignItemID1=TMC4671
-ComponentSymbolReference1=TMC4671
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
 FullReplace=0
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1936,32 +1939,45 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Comment
-ParameterUpdate0=0
-ParameterName1=Component Kind
+ParameterName0=Arrow_Electronics-Purchase-URL
+ParameterUpdate0=1
+ParameterName1=Availability
 ParameterUpdate1=1
-ParameterName2=Description
-ParameterUpdate2=1
-ParameterName3=Library Reference
+ParameterName2=Comment
+ParameterUpdate2=0
+ParameterName3=Component Kind
 ParameterUpdate3=1
-ParameterName4=Manufacturer Part Number 1
+ParameterName4=Description
 ParameterUpdate4=1
-ParameterName5=Part Number
+ParameterName5=Library Reference
 ParameterUpdate5=1
-ParameterName6=Supplier 1
+ParameterName6=MF
 ParameterUpdate6=1
-ParameterName7=Supplier Part Number 1
+ParameterName7=MP
 ParameterUpdate7=1
-ParameterName8=Supplier URL 1
+ParameterName8=Package
 ParameterUpdate8=1
+ParameterName9=Part Number
+ParameterUpdate9=1
+ParameterName10=Pin Count
+ParameterUpdate10=1
+ParameterName11=Price
+ParameterUpdate11=1
+ParameterName12=SnapEDA_Link
+ParameterUpdate12=1
+ParameterName13=Supplier 1
+ParameterUpdate13=1
+ParameterName14=Supplier Part Number 1
+ParameterUpdate14=1
+ParameterName15=Supplier URL 1
+ParameterUpdate15=1
+ParameterName16=Value
+ParameterUpdate16=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=QFN40P1050X650X90_HS-77N
+ModelName0=CN HDR 4POS SMD JST ZR
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=TP
-ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0

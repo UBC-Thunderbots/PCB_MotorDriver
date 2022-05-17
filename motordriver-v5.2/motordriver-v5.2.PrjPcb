@@ -32,7 +32,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-IsVirtualBomDocumentRemoved=0
+IsVirtualBomDocumentRemoved=1
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
@@ -236,7 +236,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WWLRTBNN
 
 [Document12]
-DocumentPath=motordriver-v5.1.OutJob
+DocumentPath=motordriver-v5.2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -456,16 +456,137 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WVNHRPMY
 
+[Document25]
+DocumentPath=motordriver-v5.2 - panel.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BKNEKPLL
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for motordriver-v5.1\Design Rule Check - motordriver-v5.html
+DocumentPath=Project Outputs for motordriver-v5.2\BOM\Bill of Materials-motordriver-v5.2.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for motordriver-v5.2\Design Rule Check - motordriver-v5.html
+DocumentPath=Project Outputs for motordriver-v5.1\Design Rule Check - motordriver-v5.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for motordriver-v5.2\Design Rule Check - motordriver-v5.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for motordriver-v5.2\Embedded Boards Stackup Compatibility - motordriver-v5.html
+DItemRevisionGUID=
+
+[GeneratedDocument5]
 DocumentPath=motordriver-v5.1.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for motordriver-v5.2\NC Drill\motordriver-v5.2 - panel.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.G1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.G2
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.G3
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.G4
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for motordriver-v5.2\NC Drill\motordriver-v5.2 - panel.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for motordriver-v5.2\NC Drill\motordriver-v5.2 - panel.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Route_Tool_Path.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for motordriver-v5.2\Pick Place\Pick Place for motordriver-v5.2 - panel.csv
 DItemRevisionGUID=
 
 [Configuration1]

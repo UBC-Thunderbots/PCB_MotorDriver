@@ -43,11 +43,11 @@ OutputEnabled1_OutputMedium4=0
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.34|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration1_Name1=OutputConfigurationParameter1
-Configuration1_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=45310100|ViewY=61417320|LookAtX=35048908|LookAtY=37827560|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=2.01408983654774E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=motordriver-v5.2.PcbDoc
+Configuration1_Item1=Record=Pcb3DPrintView|ResX=600|ResY=600|ViewX=45310100|ViewY=61417320|LookAtX=35048908|LookAtY=37827560|LookAtZ=0|UpX=0|UpY=1|UpZ=0|FOV=0|QuatX=0|QuatY=0|QuatZ=0|QuatW=1|Zoom=2.01408983654774E-5|UnitsPercent=True|UnitsDPI=True|LockResAspect=True|ViewConfigType=.config_3d|CustomCamera=False|ViewFromTop=True|ScreenWidth=0|ScreenHeight=0|ImageOutputType=1|ViewConfig= |DocumentPath=C:\Users\henry\Documents\Documents\University\GitHub\PCB_MotorDriver\motordriver-v5.2\motordriver-v5.2 - panel.PcbDoc
 OutputType2=PCB 3D Print
 OutputName2=Copy of PCB 3D Print
 OutputCategory2=Documentation
-OutputDocumentPath2=motordriver-v5.2.PcbDoc
+OutputDocumentPath2=motordriver-v5.2 - panel.PcbDoc
 OutputVariantName2=
 OutputEnabled2=1
 OutputEnabled2_OutputMedium1=2
@@ -61,7 +61,7 @@ Configuration2_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=45310100|View
 OutputType3=PCB Print
 OutputName3=PCB Prints
 OutputCategory3=Documentation
-OutputDocumentPath3=motordriver-v5.2.PcbDoc
+OutputDocumentPath3=motordriver-v5.2 - panel.PcbDoc
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=3

@@ -473,6 +473,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BKNEKPLL
 
+[Document26]
+DocumentPath=motordriver-v5.2-top.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document27]
+DocumentPath=motordriver-v5.2-bottom.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for motordriver-v5.2\BOM\Bill of Materials-motordriver-v5.2.xlsx
 DItemRevisionGUID=
@@ -486,107 +520,11 @@ DocumentPath=motordriver-v5.1.sdf
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for motordriver-v5.2\NC Drill\motordriver-v5.2 - panel.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.G1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.G2
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.G3
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.G4
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for motordriver-v5.2\NC Drill\motordriver-v5.2 - panel.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
 DocumentPath=Project Outputs for motordriver-v5.2\Copy of PCB 3D Print\motordriver-v5.2 - panel.png
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for motordriver-v5.2\PCB 3D Print\motordriver-v5.2 - panel.png
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.REP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for motordriver-v5.2\NC Drill\motordriver-v5.2 - panel.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Keep-out.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Mechanical_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Mechanical_13.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Mechanical_15.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Route_Tool_Path.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for motordriver-v5.2\Gerber\motordriver-v5.2 - panel_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for motordriver-v5.2\Pick Place\Pick Place for motordriver-v5.2 - panel.csv
 DItemRevisionGUID=
 
 [Configuration1]
@@ -771,6 +709,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -876,6 +815,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -955,6 +895,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -976,6 +917,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -1047,6 +989,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1109,6 +1052,7 @@ PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup7]
 Name=Other Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1216,6 +1160,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1259,6 +1204,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1319,6 +1265,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files

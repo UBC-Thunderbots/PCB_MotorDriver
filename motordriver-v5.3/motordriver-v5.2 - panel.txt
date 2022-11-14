@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\henry\Documents\Documents\University\GitHub\PCB_MotorDriver\motordriver-v5.2\motordriver-v5.2 - panel.PcbDoc
+Date         : 5/17/2022
+Time         : 7:21:02 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 5010.001milsx6620mils
+    Components on board, 32
+count : 2

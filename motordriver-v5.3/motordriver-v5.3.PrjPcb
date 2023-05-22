@@ -491,11 +491,107 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for motordriver-v5.3\Design Rule Check - motordriver-v5.html
+DocumentPath=Project Outputs for motordriver-v5.3\BOM\Bill of Materials-motordriver-v5.3.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for motordriver-v5.3\Design Rule Check - motordriver-v5.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=motordriver-v5.1.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Copper_Signal_3.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Copper_Signal_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.2_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for motordriver-v5.3\NC Drill\motordriver-v5.3.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.3.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for motordriver-v5.3\NC Drill\motordriver-v5.3.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.3.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for motordriver-v5.3\Gerber\motordriver-v5.3.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for motordriver-v5.3\NC Drill\motordriver-v5.3.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for motordriver-v5.3\Pick Place\Pick Place for motordriver-v5.3.csv
 DItemRevisionGUID=
 
 [Configuration1]

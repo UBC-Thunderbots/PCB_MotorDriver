@@ -1,0 +1,256 @@
+Board Information Report
+Filename     : C:\Users\henry\Documents\Documents\University\GitHub\PCB_MotorDriver\motordriver-v5.2\motordriver-v5.2.PcbDoc
+Date         : 5/16/2022
+Time         : 3:53:51 PM
+Time Elapsed : 00:00:03
+
+General
+    Board Size, 4530.01milsx6140.152mils
+    Components on board, 772
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 1820
+    Connections routed, 1820
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Copper, 4, 1418, 0, 3749, 0, 78, 54, 0
+    GND Layer 1, 0, 0, 0, 0, 0, 0, 3, 0
+    Signal Layer 1, 0, 0, 0, 812, 0, 0, 0, 0
+    Signal Layer 2, 0, 0, 0, 649, 0, 0, 0, 0
+    PWR Layer, 0, 0, 0, 0, 0, 0, 9, 0
+    Bottom Copper, 4, 943, 0, 2516, 0, 12, 35, 0
+    Mechanical 1, 0, 0, 0, 70, 0, 0, 0, 28
+    Mechanical 4, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 5, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 7, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 13, 41, 0, 0, 2603, 0, 0, 0, 1715
+    Mechanical 15, 0, 0, 0, 3878, 0, 0, 0, 0
+    Mechanical 16, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 29, 0, 0, 0, 20, 0, 0, 5, 0
+    Route Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 184, 1092, 0, 0, 0, 2, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 85, 0
+    Top Overlay, 91, 0, 0, 696, 671, 0, 32, 0
+    Top Mask, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Mask, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 5, 0, 0, 891, 877, 0, 12, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 4, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 10, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 25
+
+Drill Pairs, Vias
+    Top Copper - Bottom Copper, 1092
+count : 1
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Copper, 13.848, 8933.921, 60%
+    GND Layer 1, 21.119, 13625.084, 91%
+    Signal Layer 1, 1.427, 920.631, 6%
+    Signal Layer 2, 1.185, 764.668, 5%
+    PWR Layer, 20.862, 13459.546, 90%
+    Bottom Copper, 13.605, 8777.665, 58%
+count : 6
+
+Non-Plated Hole Size, Pads, Vias
+    40.158mils, 12, 0
+    118.11mils, 10, 0
+count : 2
+
+Plated Hole Size, Pads, Vias
+    0mils, 2361, 0
+    7.874mils, 0, 1024
+    15mils, 0, 54
+    17.717mils, 0, 14
+    25.591mils, 10, 0
+    31.496mils, 88, 0
+    40.158mils, 40, 0
+    55.118mils, 20, 0
+    94.488mils, 4, 0
+count : 9
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    -118.11mils, 10
+    -40.158mils, 10
+    0mils, 2
+    11.811mils, 1024
+    13.78mils, 14
+    15mils, 142
+    15.748mils, 10
+    19.685mils, 10
+    20.079mils, 30
+    30.709mils, 4
+    43.307mils, 20
+count : 11
+
+Mid Layer Annular Ring Size, Count
+    -118.11mils, 10
+    -40.158mils, 10
+    0mils, 2
+    11.811mils, 1024
+    13.78mils, 14
+    15mils, 142
+    15.748mils, 10
+    19.685mils, 10
+    20.079mils, 30
+    30.709mils, 4
+    43.307mils, 20
+count : 11
+
+Bottom Layer Annular Ring Size, Count
+    -118.11mils, 10
+    -40.158mils, 10
+    0mils, 2
+    11.811mils, 1024
+    13.78mils, 14
+    15mils, 142
+    15.748mils, 10
+    19.685mils, 10
+    20.079mils, 30
+    30.709mils, 4
+    43.307mils, 20
+count : 11
+
+Pad Solder Mask, Count
+    0mils, 30
+    1.969mils, 64
+    2mils, 380
+    2.008mils, 5
+    2.5mils, 40
+    2.559mils, 120
+    2.559mils, 132
+    2.756mils, 42
+    2.953mils, 185
+    3mils, 12
+    3.937mils, 1078
+    4mils, 457
+count : 12
+
+Pad Paste Mask, Count
+    -3897.638mils, 10
+    -157.48mils, 1
+    0mils, 2534
+count : 3
+
+Pad Pwr/Gnd Expansion, Count
+    12mils, 2253
+    23mils, 292
+count : 2
+
+Pad Relief Conductor Width, Count
+    10mils, 2545
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 2545
+count : 1
+
+Pad Relief Entries, Count
+    4, 2545
+count : 1
+
+Via Solder Mask, Count
+    -3897.638mils, 155
+    4mils, 937
+count : 2
+
+Via Pwr/Gnd Expansion, Count
+    12mils, 948
+    23mils, 144
+count : 2
+
+Track Width, Count
+    0mils, 70
+    1mils, 16
+    1.969mils, 2655
+    2.008mils, 28
+    3.937mils, 3655
+    5mils, 230
+    6mils, 6669
+    7mils, 103
+    7.874mils, 1298
+    8mils, 73
+    9mils, 165
+    10mils, 168
+    15mils, 26
+    20mils, 223
+    28mils, 22
+    30mils, 483
+count : 16
+
+Arc Line Width, Count
+    1.969mils, 15
+    3.937mils, 19
+    5mils, 6
+    6mils, 5
+    7.874mils, 2
+    9.843mils, 38
+    10mils, 15
+    15mils, 5
+    19.685mils, 3
+    23.622mils, 10
+    31.496mils, 1
+    35.433mils, 8
+    39.37mils, 10
+    165mils, 8
+count : 14
+
+Arc Radius, Count
+    0mils, 1
+    0.039mils, 8
+    0.091mils, 5
+    0.1mils, 8
+    0.394mils, 10
+    0.433mils, 3
+    3.112mils, 15
+    3.937mils, 2
+    4.921mils, 38
+    7.874mils, 15
+    11.811mils, 14
+    12mils, 5
+    15.748mils, 6
+    19.685mils, 15
+count : 14
+
+Arc Degrees, Count
+    180, 11
+    360, 134
+count : 2
+
+Text Height, Count
+    30mils, 1110
+    60mils, 438
+count : 2
+
+Text Width, Count
+    6mils, 1110
+    10mils, 438
+count : 2
+
+Net Track Width, Count
+    6mils, 487
+    9mils, 2
+    10mils, 20
+    28mils, 33
+count : 4
+
+Net Via Size, Count
+    50mils, 542
+count : 1

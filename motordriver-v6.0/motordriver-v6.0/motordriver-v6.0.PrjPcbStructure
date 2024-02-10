@@ -1,5 +1,5 @@
 Record=TopLevelDocument|FileName=root.SchDoc|SheetNumber=1
 Record=SheetSymbol|SourceDocument=root.SchDoc|Designator=Communication|SchDesignator=Communication|FileName=communication.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=communication.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=root.SchDoc|Designator=Power|SchDesignator=Power|FileName=power.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=root.SchDoc|Designator=Power|SchDesignator=Power|FileName=power.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=root.SchDoc|Designator=STSPIN|SchDesignator=STSPIN|FileName=STSPIN.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=STSPIN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=root.SchDoc|FileName=half-bridge.SchDoc|SheetNumber=5
+Record=SheetSymbol|SourceDocument=STSPIN.SchDoc|Designator=Half-Bridge|SchDesignator=Half-Bridge|FileName=half-bridge.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=half-bridge.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

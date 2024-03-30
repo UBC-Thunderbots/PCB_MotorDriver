@@ -1,0 +1,1 @@
+put all new components as Schlib and PcbLib in the component folder for now and add them to the library later
